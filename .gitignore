@@ -58,6 +58,6 @@ typings/
 .env
 
 # typescript generated files
-src/*.map
-src/*.js
+src/.map
+src/.js
 
