@@ -1,0 +1,25 @@
+{
+  "name": "logger-eyal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebCourse3/Logger-Eyal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebCourse3/Logger-Eyal/issues"
+  },
+  "homepage": "https://github.com/WebCourse3/Logger-Eyal#readme",
+  "devDependencies": {
+    "typescript": "^2.6.1"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.50"
+  },
+  "description": ""
+}
